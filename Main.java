@@ -21,7 +21,6 @@ public class Main {
                 break;
             }
             ult--;
-            
         }
 
         if (palindromo) {
